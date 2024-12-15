@@ -33,5 +33,8 @@ the value equals to the content of connected Dynamic Notice, which also will rem
 
 == Changelog ==
 
+= 1.1 =
+* Updated version
+
 = 1.0 =
 * The release of the plugin

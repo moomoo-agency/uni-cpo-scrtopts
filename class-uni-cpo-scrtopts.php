@@ -109,7 +109,7 @@ final class Uni_Cpo_Scrtopts {
 				wp_register_script(
 					'uni-cpo-scrtopts-script',
 					$this->plugin_url() . '/assets/js/frontend.js',
-					array( 'jquery', 'uni-cpo-frontend' ),
+					array( 'jquery', 'underscore', 'parsleyjs',  'uni-cpo-frontend' ),
 					$this->version,
 					true
 				);
